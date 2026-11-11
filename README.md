@@ -1,4 +1,4 @@
-# lambda-gpu-lock
+# Lambda GPU Lock
 
 Capacity watcher for Lambda Cloud. Polls the Lambda Cloud API for 1× 80GB GPU
 availability (A100/H100), then automatically launches an instance with a
